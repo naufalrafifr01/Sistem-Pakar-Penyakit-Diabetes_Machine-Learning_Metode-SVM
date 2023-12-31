@@ -1,0 +1,10 @@
+Ket Github Project Sistem Pakar Prediksi Penyakit diabetes Mengunakan machine learning dgn Metode SVM :
+
+1. pertama install python pada browser version 3.11
+   kalau sudah terinstall coba check di cmd(terminal windows)
+   dengan mengetikan perintah - python __version  
+2. kedua Install Jupyter Notebook pada cmd(terminal windows)
+   kemudian ketikan  perintal pip install jupyter notebook setelah tunggu sampai selesai download.
+3. ketiga,setelah selesai install ketikan pada cmd(terminal windows) dengan perintah - jupyter notebook kemudian muncul laman jupyter notebook
+4. keempat, kita tinggal buat file - new - notebook beri nama : diabetes.ipnyb, kemudian ketikan codingannya library kemudian dijalankan perintahnya dan  didalam folder tersebut udah ada dataset yang berformat csv didalam nya diabetes.csv
+5. selesai project sudah bisa dijalankan 
