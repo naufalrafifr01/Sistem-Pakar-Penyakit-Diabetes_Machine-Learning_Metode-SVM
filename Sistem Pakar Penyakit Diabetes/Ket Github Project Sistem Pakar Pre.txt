@@ -7,4 +7,10 @@ Ket Github Project Sistem Pakar Prediksi Penyakit diabetes Mengunakan machine le
    kemudian ketikan  perintal pip install jupyter notebook setelah tunggu sampai selesai download.
 3. ketiga,setelah selesai install ketikan pada cmd(terminal windows) dengan perintah - jupyter notebook kemudian muncul laman jupyter notebook
 4. keempat, kita tinggal buat file - new - notebook beri nama : diabetes.ipnyb, kemudian ketikan codingannya library kemudian dijalankan perintahnya dan  didalam folder tersebut udah ada dataset yang berformat csv didalam nya diabetes.csv
-5. selesai project sudah bisa dijalankan 
+5. selesai project sudah bisa dijalankan.
+
+Nama Kelompok Kecerdasan Buatan :
+1. Nadia Wulandari (32602100095)
+2. Naufal Rafif Ramadhani (32602100101)
+3. Shendy Candra Sukma Buana (32602100114)
+4. Silvia Putri Anggraeni (32602100116)
